@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+	<UseWinForms>true</UseWinForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ColorPickerWPF" Version="1.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FractalLibrary\FractalLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
