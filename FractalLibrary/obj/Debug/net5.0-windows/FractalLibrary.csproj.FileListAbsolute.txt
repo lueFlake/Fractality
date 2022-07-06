@@ -1,0 +1,11 @@
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\bin\Debug\net5.0-windows\FractalLibrary.deps.json
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\bin\Debug\net5.0-windows\FractalLibrary.dll
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\bin\Debug\net5.0-windows\ref\FractalLibrary.dll
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\bin\Debug\net5.0-windows\FractalLibrary.pdb
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\obj\Debug\net5.0-windows\FractalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\obj\Debug\net5.0-windows\FractalLibrary.AssemblyInfoInputs.cache
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\obj\Debug\net5.0-windows\FractalLibrary.AssemblyInfo.cs
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\obj\Debug\net5.0-windows\FractalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\obj\Debug\net5.0-windows\FractalLibrary.dll
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\obj\Debug\net5.0-windows\ref\FractalLibrary.dll
+C:\Users\usele\OneDrive\Рабочий стол\Fractality\FractalLibrary\obj\Debug\net5.0-windows\FractalLibrary.pdb
